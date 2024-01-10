@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{C1F88913-98FC-4C10-995E-4A43382237DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookApiProject3.1/Services/AuthorRepository.cs">
+    <Files>
+      <File FileName="BookApiProject3.1/Models/Book.cs" Line="9" Column="2" />
+      <File FileName="BookApiProject3.1/Models/BookAuthor.cs" />
+      <File FileName="BookApiProject3.1/Models/BookCategory.cs" />
+      <File FileName="BookApiProject3.1/Models/Category.cs" />
+      <File FileName="BookApiProject3.1/Models/Country.cs" />
+      <File FileName="BookApiProject3.1/Models/Review.cs" />
+      <File FileName="BookApiProject3.1/Models/Reviewer.cs" />
+      <File FileName="BookApiProject3.1/appsettings.json" Line="12" Column="1" />
+      <File FileName="BookApiProject3.1/Services/AuthorRepository.cs" Line="42" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookApiProject3.1" expanded="True">
+            <Node name="BookApiProject3.1" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="AuthorRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BookApiProject3.1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

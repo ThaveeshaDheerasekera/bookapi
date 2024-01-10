@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D0D2A9E3-1A78-4F36-870F-D209D16ECF7C}|Default">
+  <MonoDevelop.Ide.ItemProperties.BookApi__Project PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookApi_Project/Controllers/CountriesController.cs">
+    <Files>
+      <File FileName="BookApi_Project/Services/ICountryRepository.cs" Line="22" Column="1" />
+      <File FileName="BookApi_Project/Services/CountryRepository.cs" />
+      <File FileName="BookApi_Project/Controllers/CountriesController.cs" Line="225" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookApi_Project" expanded="True">
+            <Node name="BookApi_Project" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CountriesController.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
